@@ -1,3 +1,8 @@
+---
+layout: default
+title: jMonkeyEngine Features
+---
+
 see also: Feature comparison and requirements.
 
 ## Software Development Kit: jMonkeyEngine SDK
