@@ -20,4 +20,5 @@ You get | Sources, binaries, javadoc, SDK | Latest stable binary build, sources,
 Learn more | Using the SDK Project Creation | * Setting up jME3 with maven compatible IDE's * Setting up jME3 in the NetBeans IDE | Building JME from sources
 
 
+
 The SDK creates Ant-based projects that any Java IDE can import. We recommend users of other IDEs to also download the jMonkeyEngine SDK and choose "File→Import Project→External Project Assets" to create a codeless project for managing assets only. This way you can code in the IDE of your choice, and use the SDK to convert your models to .j3o format.
