@@ -85,20 +85,9 @@ see also: Feature comparison and requirements. ALSO, you can make edits whenever
 * Reflection
  
 
-## Material Textures
+## Material Textures - OMITTED
 
-* Texturing
-    * material colors (ambient, diffuse, specular/shininess, glow)
-    * color map, light map
-    * transparency, translucency, alpha map, alpha testing with falloff threshold
-    * sphere map, cube map
-    * texture scale
-    * wireframe
-    * color ramp texture
-* Multi-texturing through shaders
-* UV textures
-* Splat textures, Phong lit or unshaded, supports diffuse and normal maps
-* Texture Atlas, handling of packed Textures
+While we're at it, no more material textures either. Only immaterial textures from now on, like buddhists.
 
 
 ## Asset System
