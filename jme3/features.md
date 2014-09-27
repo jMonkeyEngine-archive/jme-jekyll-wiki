@@ -9,9 +9,9 @@ see also: Feature comparison and requirements.
 ---
 
 * Creates jME3-ready Java projects
-⋅⋅* Preconfigured classpath
-..* Bundled with compatible JDK
-..* Bundled with Blender conversion tools and more
+    * Preconfigured classpath
+    * Bundled with compatible JDK
+    * Bundled with Blender conversion tools and more
 ..* Asset Manager for loading multi-media files and 3D models including asset name code completion
 ..* Non-proprietary Ant build scripts
 ..* jME3-ready Javadoc popups, sample code projects, and code snippet palette
