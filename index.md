@@ -10,7 +10,7 @@ You are also very welcome to fix mistakes or spelling as well as unclear paragra
 
 
 ## Install
-Before installing, check the license, features and requirements, then choose one of these options.
+Before installing, check the [license](./bsd_license.html), [features](./jme3/features.html) and requirements, then choose one of these options.
 
 --- | Recommended | Optional | Optional
 --- | --- | --- | ---
