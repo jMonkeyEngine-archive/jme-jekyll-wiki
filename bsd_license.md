@@ -1,3 +1,8 @@
+---
+layout: default
+title: jMonkeyEngine Documentation
+---
+
 ## jME's BSD License
 
 > Copyright (c) 2003-2012 jMonkeyEngine
