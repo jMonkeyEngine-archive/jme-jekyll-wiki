@@ -63,12 +63,9 @@ see also: Feature comparison and requirements. ALSO, you can make edits whenever
 * jME3 filter post processors: .j3f
 
 
-## Shaders
+## Shaders OMITTED
 
-* GLSL support
-* Shader libraries
-* Shader permutations
-* Shader Nodes
+Who needs'em.
  
 
 ## Material Lighting
