@@ -17,7 +17,9 @@ Before installing, check the license, features and requirements, then choose one
 You want to | Get started with jMonkeyEngine | Use jMonkeyEngine in another IDE | Build custom engine from sources
 Download | jMonkeyEngine SDK | Binaries | Sources (subversion)
 You get | Sources, binaries, javadoc, SDK | Latest stable binary build, sources, javadoc | Sources
-Learn more | Using the SDK Project Creation | * Setting up jME3 with maven compatible IDE's * Setting up jME3 in the NetBeans IDE | Building JME from sources
+Learn more | Using the SDK Project Creation | 
+* Setting up jME3 with maven compatible IDE's 
+* Setting up jME3 in the NetBeans IDE | Building JME from sources
 
 
 
