@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jMonkeyEngine Features
+title: jMonkeyEngine Documentation Index
 ---
 
 ## jMonkeyEngine Documentation
