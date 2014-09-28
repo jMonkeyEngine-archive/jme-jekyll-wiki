@@ -3,7 +3,7 @@ layout: default
 title: jMonkeyEngine Features
 ---
 
-see also: Feature comparison and requirements. ALSO, you can make edits whenever you'd like, coz that's how we roll.
+see also: Feature comparison and requirements.
 
 ## Software Development Kit: jMonkeyEngine SDK
 
@@ -63,9 +63,12 @@ see also: Feature comparison and requirements. ALSO, you can make edits whenever
 * jME3 filter post processors: .j3f
 
 
-## Shaders OMITTED
+## Shaders
 
-Who needs'em.
+* GLSL support
+* Shader libraries
+* Shader permutations
+* Shader Nodes
  
 
 ## Material Lighting
@@ -82,9 +85,20 @@ Who needs'em.
 * Reflection
  
 
-## Material Textures - OMITTED
+## Material Textures
 
-While we're at it, no more material textures either. Only immaterial textures from now on, like buddhists.
+* Texturing
+    * material colors (ambient, diffuse, specular/shininess, glow)
+    * color map, light map
+    * transparency, translucency, alpha map, alpha testing with falloff threshold
+    * sphere map, cube map
+    * texture scale
+    * wireframe
+    * color ramp texture
+* Multi-texturing through shaders
+* UV textures
+* Splat textures, Phong lit or unshaded, supports diffuse and normal maps
+* Texture Atlas, handling of packed Textures
 
 
 ## Asset System

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jMonkeyEngine License
+title: jMonkeyEngine Documentation
 ---
 
 ## jME's BSD License
