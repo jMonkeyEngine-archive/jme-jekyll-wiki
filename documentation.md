@@ -35,7 +35,7 @@ You are also very welcome to fix mistakes or spelling as well as unclear paragra
 <td>Sources</td>
 </tr>
 <tr>
-<th>**Learn more here…**</th>
+<th>**Learn more here….**</th>
 <td>[Using the SDK](/wiki/sdk)
 
 [Project Creation](/wiki/sdk/project_creation)
