@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jMonkeyEngine Features
+title: Característicasj de MonkeyEngine
 lang: es
 categories:
     - es
