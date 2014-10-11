@@ -6,6 +6,8 @@ categories:
     - es
 ---
 
+**¡Hola! - WIP**
+
 see also: Feature comparison and requirements. ALSO, you can make edits whenever you'd like, coz that's how we roll.
 
 ## Software Development Kit: jMonkeyEngine SDK
