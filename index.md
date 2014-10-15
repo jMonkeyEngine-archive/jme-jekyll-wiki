@@ -1,12 +1,13 @@
 ---
 layout: default
 title: jMonkeyEngine Documentation Index
+published: true
 ---
 
 # jMonkeyEngine Documentation
 This documentation wiki contains installation and configuration guides, jME coding tutorials and other information that will help you get your game project going. You can search the contents of this wiki using the search box in the upper right.
 
-You are also very welcome to fix mistakes or spelling as well as unclear paragraphs using the "Wiki" menu on top or the "Edit" buttons after each paragraph. You have to be logged in to edit the wiki.
+You are also very welcome to **fix mistakes** or spelling as well as unclear paragraphs using the "Wiki" menu on top or the "Edit" buttons after each paragraph. You have to be logged in to edit the wiki.
 
 
 ## Install
